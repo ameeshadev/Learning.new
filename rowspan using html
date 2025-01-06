@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>tables</title>
+  <style>
+    table{
+      border:2px solid black;
+      border-collapse: collapse;
+      width:50%;
+      margin:auto;
+    }
+    th,td{
+       border:2px solid black;
+       text-align:center;
+    }
+  </style>
+</head>
+<body>
+  <table>
+    <tr>
+      <th rowspan="2">Name</th>
+      <th colspan="2">Subjects</th>
+    </tr>
+    <tr>
+      <th>M1</th>
+      <th>M2</th>
+    </tr>
+    <tr>
+      <td>ameesha</td>
+      <td>100</td>
+      <td>99</td>
+    </tr>
+     <tr>
+      <td>uma</td>
+      <td>100</td>
+      <td>99</td>
+    </tr>
+  </table>
+</body>
+</html>
