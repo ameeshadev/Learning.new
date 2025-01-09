@@ -1,0 +1,15 @@
+<!DOCTYPE HTMl>
+<html>
+  <body
+    <p>formatting texts</p>
+    <p><b>formatting texts</b></p>
+    <p><i>formatting texts</i></p>
+    <p><em>formatting texts</em></p>
+    <p><strong>formatting texts</strong></p>
+    <p>HTML <sub>formatting</sub> text</p>
+    <p>HTML <sup>formatting </sup> text</p>
+    <p>formatting <ins>HTML</ins> texts</p>
+    <p>formatting <del>texts</del> elements</p>
+    <p>HTML formatting <mark> elements</mark>
+  </body>
+</html>  
