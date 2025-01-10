@@ -1,0 +1,11 @@
+<!DOCTYPE HTMl>
+<html>
+  <!-- this is using background color -->
+  <body style="background-color:pink";>
+    <h2>HTML STYLE</h2>
+    <p> inner the html style using background-color</p>
+    <!-- this is set background-color for two different colors -->
+    <h3 style="background-color: yellow;">background color</h3>
+    <p style="background-color: blue;">use background-color for background color</p>
+    </body>
+    </html>
