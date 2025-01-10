@@ -1,0 +1,20 @@
+
+<!DOCTYPE HTMl>
+<html>
+  <!-- this is using background color -->
+  <body style="background-color:pink";>
+    <h2>HTML STYLE</h2>
+    <p> inner the html style using background-color</p>
+    <!-- this is set background-color for two different colors -->
+    <h3 style="background-color: yellow;">background color</h3>
+    <p style="background-color: blue;">use background-color for background color</p>
+    <h1 style="color:skyblue;">using color for text color </h1>
+    <p2 style="color: green;">the style is a attribute </p2>
+    <h1 style="font-family:100px;">online compiler </h1>
+    <p style="font-family:60px;">using text fronts</p>
+    <h2 style="font-size:150%;">ameesha</h2>
+    <p style="font-size:60%;">using html</p>
+    <h2 style="text-align:center;">ameeshadev</h2>
+    <p style="text-align:center;">ameesha learning html</p>
+    </body>
+    </html>
