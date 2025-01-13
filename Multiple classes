@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+.city {
+  background-color: tomato;
+  color: white;
+  padding: 10px;
+} 
+
+.main {
+  text-align: center;
+}
+</style>
+</head>
+<body>
+
+<h2>Multiple Classes</h2>
+<p>Here, three citiesarethere</p>
+
+<h2 class="city main">piduguralla</h2>
+<h2 class="city">guntur</h2>
+<h2 class="city">Vijayawada</h2>
+
+</body>
+</html>
