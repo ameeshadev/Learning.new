@@ -1,0 +1,19 @@
+DOCTYPE html>
+<html>
+<head>
+<style>
+.city {
+  background-color: tomato;
+  color: white;
+  padding: 10px;
+} html
+</style>
+</head>
+<body>
+
+<h2>Different Elements Can Share Same Class</h2>
+<h2 class="city">guntur</h2>
+<p class="city">Vijayawada</p>
+
+</body>
+</html>
