@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1 style="text-align: center";>button form attribute</h1>
+
+<form action="/action_page.php" method="get" id="nameform">
+  <label for="fname">First name:</label><br>
+  <input type="text" id="fname" name="fname"><br>
+  <label for="lname">Last name:</label><br>
+  <input type="text" id="lname" name="lname">
+</form> <br>
+<button type="submit" form="nameform" value="Submit">Submit</button><br>
+</body>
+</html>
