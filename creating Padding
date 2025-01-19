@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<style>
+h1{
+  margin-top: 30px;
+  margin-right: 50px;
+  margin-bottom: 70px;
+  margin-left: 50px;
+  color: white;
+  background-color: black;
+  height: 150px;
+  width: 80%;
+  border: 5px solid green;
+  border-radius: 50px;
+  text-align: center;
+  text-shadow: 4px 4px #777;
+  font-size:40px;
+  
+}
+h2{
+  color:#ff0066;
+  text-transform: uppercase;
+  text-shadow: 2px 2px #777;
+}
+p{
+  text-align: center;
+  color:#0000ff;
+  font-size:25px;
+}
+p1{
+  color:#cc0066;
+  font-size: 40px;
+  font-weight: italic;
+}
+li{
+  font-size:25px;
+  color:#000099;
+}
+
+  
+  
+</style>
+  <body>
+  <h2> This is padding property:</h2>
+  <h1> welcome to cascading style sheet </h1>
+  <p>"In this padding property is used to create a space around elements content, inside of any defined borders"</p>
+  <p1>padding- individual sides:</p1>
+  <ol  type="1">
+    <li>padding-top</li>
+    <li>padding-top</li>
+    <li>padding-top</li>
+    <li>padding-top</li>
+    </ol>
+    
+  
+  </body>
+</html>
