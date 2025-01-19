@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<style>
+h1{
+  margin-top: 30px;
+  margin-right: 50px;
+  margin-bottom: 70px;
+  margin-left: 50px;
+  color: white;
+  background-color: black;
+  height: 120px;
+  width: 80%;
+  border: 5px solid green;
+  shape-margin: round;
+}
+h2{
+  color:#ff0066;
+}
+</style>
+  <body>
+  <h2> This is margin property:</h2>
+  <h1> welcome to cascading style sheet </h1>
+  </body>
+</html>
