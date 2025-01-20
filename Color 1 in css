@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <style>
+        h1 {
+            color: green;
+            font-size: 50px;
+        }
+    </style>
+</head>
+
+<body>
+    <h1>ameesha.</h1>
+    
+    <p>This is only my name.</p>
+</body>
+
+</html>
