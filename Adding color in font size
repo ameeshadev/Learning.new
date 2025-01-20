@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+h1 {
+  font-size: 40px;
+}
+
+h2 {
+  font-size: 50px;
+}
+
+p {
+  font-size: 64px;
+}
+</style>
+</head>
+<body>
+
+<h1 style="color:pink;">w3school</h1>
+<h2 style="color:blue:">This is font size</h2>
+<p>css.</p>
+<p>cascading style sheet.</p>
+
+</body>
+</html>
+
