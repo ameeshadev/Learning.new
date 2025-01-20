@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+p.normal {
+  font-style: normal;
+}
+
+p.italic {
+  font-style: italic;
+  
+}
+
+p.oblique {
+  font-style: oblique; 
+ 
+}
+</style>
+</head>
+<body>
+
+<h1>This is font-style property </h1>
+<p class="normal">ameerunisa.</p>
+<p class="italic">ameesha.</p>
+<p class="oblique">afrid.</p>
+
+</body>
+</html>
+
+</body>
+</html>
