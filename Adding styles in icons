@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+
+<body>
+    <h1>GeeksforGeeks</h1>
+    <i class="fa fa-instagram" style="font-size:32px;">
+    </i>
+    <i class="fa fa-heart" style="font-size:32px;">
+    </i>
+    <i class="fa fa-twitter" style="font-size:32px;">
+    </i>
+    <i class="fa fa-facebook" style="font-size:32px;">
+    </i>
+    <i class="fa fa-google" style="font-size:32px;">
+    </i>
+</body>
+
+</html>
