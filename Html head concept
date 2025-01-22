@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>w3school </title>
+</head>
+<body>
+
+<p>This title not display  in  browser .</p>
+<p>The content of the title element is displayed in the browser tab, in favorites and in search-engine results.</p>
+
+</body>
+</html>
+
