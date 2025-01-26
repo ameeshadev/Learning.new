@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+#div1 {
+color:#ff0000;
+background-color:pink;
+width:calc(50%-50px);
+border: solid black;
+text-align: center;
+padding: 10px;
+}
+</style>
+</head>
+<body>
+<h1> hi welcome to html program</h1>
+<p id="div1">html means hyper text markup language</p>
+</body>
+</html>
