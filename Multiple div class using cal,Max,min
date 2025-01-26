@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+#div1 {
+color:#ff0000;
+background-color:pink;
+width:calc(100%,300px);
+border: solid black;
+text-align: center;
+padding: 10px;
+}
+#div2{
+color:#ff0000;
+background-color:pink;
+width:max(20%,300px);
+border: solid black;
+text-align: center;
+padding: 10px;
+}
+#div3{
+color:#ff0000;
+background-color:pink;
+width:max(30%,200px);
+border: solid black;
+text-align: center;
+padding: 10px;
+}
+#div4{
+color:#ff0000;
+background-color:pink;
+width:max(50%,200px);
+border: solid black;
+text-align: center;
+padding: 10px;
+}
+
+</style>
+</head>
+<body>
+  <h1>good morning</h1>
+<h1 id="div1"> hi welcome to html program</h1>
+<p id="div2">html means hyper text markup language</p>
+<h2 id="div3">hi welcome to css program</h1>
+<p id="div4">css means cascading style sheet</p>
+</body>
+</html>
