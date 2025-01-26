@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+::selection {
+color:#ff0000;
+background-color:pink;
+}
+</style>
+</head>
+<body>
+<h1> hi welcome to html program</h1>
+<p>html means hyper text markup language</p>
+</body>
+</html>
