@@ -1,0 +1,31 @@
+<DOCTYPE html>
+<html>
+<head>
+    <style>
+        .nav_menu {
+            overflow: hidden;
+            background-color: #333;
+        }
+        .nav_menu a {
+            float: left;
+            display: block;
+            color: white;
+            text-align: center;
+            padding: 14px 16px;
+            text-decoration: none;
+        }
+        .nav_menu a:hover {
+            background-color: white;
+            color: green;
+        }
+    </style>
+</head>
+<body>
+    <div class="nav_menu">
+        <a href="#">html</a>
+        <a href="#">css</a>
+        <a href="#">java script</a>
+    </div>
+</body>
+</html>
+
