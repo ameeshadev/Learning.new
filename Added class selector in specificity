@@ -1,0 +1,11 @@
+<DOCTYPE html>
+  <html>
+    <head>
+      <style>
+      .word{color:red;}
+      </style>
+    </head>
+    <body>
+      <p class="word">welcome to specifiers</p>
+    </body>
+  </html>  
