@@ -1,0 +1,14 @@
+<DOCTYPE html>
+  <html>
+    <head>
+      <style>
+       #demo{color: black;}
+       .word{color:pik;}
+       p{color:red;}
+      </style>
+    </head>
+    <body>
+      <p id="demo" class="word">welcome to specifiers</p>
+      <!--this will print black because the id will be highest priority in specificity -->
+    </body>
+  </html>  
