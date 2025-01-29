@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Document</title>
+    <style>
+        h1 {
+            color: blue;
+        }
+
+        h1 {
+            color: white !important;
+        }
+
+        body {
+            background-color: green !important;
+            text-align: center;
+            background-color: yellow;
+        }
+    </style>
+</head>
+
+<body>
+    <h1>ameesha</h1>
+    <h2>!important property</h2>
+</body>
+
+</html>
